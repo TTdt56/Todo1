@@ -38,15 +38,25 @@
                    Grid.RowSpan="3" Margin="0,70,0,35" Grid.Column="1" HorizontalAlignment="Center" Width="335">
             <Label Content="Welcome back" Width="305" Height="48" FontSize="32" Margin="0,0,30,10"/>
             <Label Content="Имя пользователя" Height="34" Width="200" FontSize="20" Margin="0,0,160,4"/>
-            <TextBox Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" FontSize="16"> Введите имя пользователя</TextBox>
+            <TextBox Name="Name" Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" FontSize="16"> Введите имя пользователя</TextBox>
+                                                 
             <Label Content="Ваша почта" Height="34" Width="152" FontSize="20" Margin="0,0,200,4"/>
-            <TextBox Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" FontSize="16">exam@yandex.ru</TextBox>
+            <TextBox Name="Email" Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" FontSize="16">exam@yandex.ru</TextBox>
+            
+            
+            
             <Label Content="Пароль" Height="34" Width="100" FontSize="20" Margin="0,0,237,4"/>
-            <TextBox Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" FontSize="16">Введите пароль</TextBox>
+            <TextBox Name="Password" Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" FontSize="16" TextChanged="TextBox_password">Введите пароль</TextBox>
             <Label Content="Повторить пароль" Height="34" Width="200" FontSize="20" Margin="0,0,160,4"/>
-            <TextBox Name="PassBox"  Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" TextChanged="TextBox_TextChanged" FontSize="16">Повторите пароль</TextBox>
-            <Button Content="Зарегистрироваться" Height="48" Width="327" Margin="0,10,0,10" Background="#FFF96060" Foreground="#FFF" FontSize="18" Click="Button_Click"/>
-            <Button Content="Назад" Height="48" Width="327" Margin="0,0,0,6" Background="#FFF96060" Foreground="#FFF" FontSize="18" Click="Button_Click_1"/>
+            <TextBox Name="RepeatPassword"  Width="325" Height="19" Margin="0,0,0,10" Opacity="0.4" TextChanged="TextBox_repeat_password" FontSize="16">Повторите пароль</TextBox>
+            
+            
+            
+            <Button Content="Зарегистрироваться" Height="48" Width="327" Margin="0,10,0,10" Background="#FFF96060" Foreground="#FFF" FontSize="18" Click="Button_Registration"/>
+            <Button Content="Назад" Height="48" Width="327" Margin="0,0,0,6" Background="#FFF96060" Foreground="#FFF" FontSize="18" Click="Button_Back_MainWindow"/>
+            
+            
+            
         </WrapPanel>
         <WrapPanel Orientation="Vertical"
                    Grid.RowSpan="2"
