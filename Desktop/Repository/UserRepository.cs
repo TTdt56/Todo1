@@ -12,7 +12,7 @@ namespace Desktop.Repository
     {
         private static readonly ObservableCollection<UserModel> Users = new ObservableCollection<UserModel>
         {
-            new UserModel("Danila", "danila@mail.com", "123456789")
+            new UserModel("Denis", "den@mail.com", "123456")
         };
         public static IEnumerable<UserModel> GetUser() { return Users; }
         public static void AddUser(UserModel user) { Users.Add(user); }
