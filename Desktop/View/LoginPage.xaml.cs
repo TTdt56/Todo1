@@ -1,6 +1,9 @@
-﻿using System.Text.RegularExpressions;
+﻿using System;
+using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
+using System.Windows.Media.Animation;
 using Desktop.Model;
 using Desktop.Repository;
 
@@ -80,57 +83,62 @@ namespace Desktop.View
             }
 
         }
-        
+
         public static class Validator
+        {
+            public static bool EmailValid(TextBox Login)
             {
-                public static bool EmailValid(TextBox Login)
-                {
-                    Regex regex = new Regex(@"^([\w.-]+)@([\w-]+)((.(\w){2,3})+)$");
-                    Match match = regex.Match(Login.Text);
-        
-                    if (match.Success)
-                        return true;
-                    else
-                        return false;
-                }
-                public static bool PasswordValid(PasswordBox PasswordBox)
-                {
-                    if (PasswordBox.Password.Length >= 6)
-                        return true;
-                    else
-                        return false;
-                }
-                public static bool Name(TextBox name)
-                {
-                    if (name.Text.Length >= 3)
-                        return true;
-                    else
-                        return false;
-                }
-                public static bool PochtaValid(TextBox pochta)
-                {
-                    Regex regex = new Regex(@"^([\w.-]+)@([\w-]+)((.(\w){2,3})+)$");
-                    Match match = regex.Match(pochta.Text);
-        
-                    if (match.Success)
-                        return true;
-                    else
-                        return false;
-                }
-                public static bool PassregValid(TextBox passreg)
-                {
-                    if (passreg.Text.Length >= 6)
-                        return true;
-                    else
-                        return false;
-                }
-                public static bool PassregandpovtValid(TextBox passregpovt, TextBox passreg)
-                {
-                    if (passregpovt.Text == passreg.Text)
-                        return true;
-                    else
-                        return false;
-                }
+                Regex regex = new Regex(@"^([\w.-]+)@([\w-]+)((.(\w){2,3})+)$");
+                Match match = regex.Match(Login.Text);
+
+                if (match.Success)
+                    return true;
+                else
+                    return false;
             }
+
+            public static bool PasswordValid(PasswordBox PasswordBox)
+            {
+                if (PasswordBox.Password.Length >= 6)
+                    return true;
+                else
+                    return false;
+            }
+
+            public static bool Name(TextBox name)
+            {
+                if (name.Text.Length >= 3)
+                    return true;
+                else
+                    return false;
+            }
+
+            public static bool PochtaValid(TextBox pochta)
+            {
+                Regex regex = new Regex(@"^([\w.-]+)@([\w-]+)((.(\w){2,3})+)$");
+                Match match = regex.Match(pochta.Text);
+
+                if (match.Success)
+                    return true;
+                else
+                    return false;
+            }
+
+            public static bool PassregValid(TextBox passreg)
+            {
+                if (passreg.Text.Length >= 6)
+                    return true;
+                else
+                    return false;
+            }
+
+            public static bool PassregandpovtValid(TextBox passregpovt, TextBox passreg)
+            {
+                if (passregpovt.Text == passreg.Text)
+                    return true;
+                else
+                    return false;
+            }
+        }
     }
 }
