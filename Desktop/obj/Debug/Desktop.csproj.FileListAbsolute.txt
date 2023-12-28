@@ -28,87 +28,97 @@ C:\Users\Я\source\repos\Desktop\Desktop\obj\Debug\Window3.baml
 C:\Users\Я\source\repos\Desktop\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
 C:\Users\Я\source\repos\Desktop\Desktop\obj\Debug\Window4.g.cs
 C:\Users\Я\source\repos\Desktop\Desktop\obj\Debug\Window4.baml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\Desktop.exe.config
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\Desktop.exe
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\Desktop.pdb
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\EntityFramework.dll
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\EntityFramework.xml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\ru\EntityFramework.resources.dll
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\MainWindow.g.cs
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Window1.g.cs
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Window2.g.cs
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Window3.g.cs
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\App.g.cs
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop_MarkupCompile.cache
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop_MarkupCompile.lref
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\MainWindow.baml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Window1.baml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Window2.baml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Window3.baml
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.g.resources
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.Properties.Resources.resources
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.csproj.CopyComplete
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.exe
-C:\Users\Я\OneDrive\Рабочий стол\ДШ\3\Desktop\obj\Debug\Desktop.pdb
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\Desktop.exe.config
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\Desktop.exe
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\Desktop.pdb
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\EntityFramework.dll
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\EntityFramework.xml
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\ru\EntityFramework.resources.dll
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\MainWindow.g.cs
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Window1.g.cs
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Window2.g.cs
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Window3.g.cs
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\App.g.cs
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop_MarkupCompile.cache
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop_MarkupCompile.lref
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\MainWindow.baml
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Window1.baml
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Window2.baml
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Window3.baml
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.g.resources
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.Properties.Resources.resources
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.csproj.CopyComplete
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.exe
-C:\Users\thu\Desktop\Work\Ycheba\4k\ww\3\Desktop\obj\Debug\Desktop.pdb
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\Desktop.exe.config
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\Desktop.exe
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\Desktop.pdb
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\EntityFramework.dll
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\EntityFramework.xml
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\ru\EntityFramework.resources.dll
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\MainWindow.g.cs
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Window1.g.cs
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Window2.g.cs
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Window3.g.cs
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\App.g.cs
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop_MarkupCompile.cache
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop_MarkupCompile.lref
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\MainWindow.baml
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Window1.baml
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Window2.baml
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Window3.baml
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.g.resources
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.Properties.Resources.resources
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.csproj.CopyComplete
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.exe
-C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\3\Desktop\obj\Debug\Desktop.pdb
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Desktop.exe.config
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Desktop.exe
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Desktop.pdb
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\EntityFramework.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\EntityFramework.xml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\ru\EntityFramework.resources.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.csproj.SuggestedBindingRedirects.cache
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\App.g.cs
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.g.resources
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.exe
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Desktop.pdb
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\App.baml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\LoginWindow.g.cs
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\RegisterWindow.g.cs
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\LoginWindow.baml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\RegisterWindow.baml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\MainEmptyWindow.g.cs
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\CreateWindow.g.cs
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\MainWindow.g.cs
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\MainEmptyWindow.baml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\CreateWindow.baml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\Window\MainWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\Desktop.exe
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\Desktop.pdb
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\EntityFramework.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\EntityFramework.xml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\LoginWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\RegisterWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\MainEmptyWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\CreateWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\MainWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\App.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\App.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\LoginWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\RegisterWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\MainEmptyWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\CreateWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Window\MainWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.exe
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Denis\Desktop\obj\Debug\Desktop.pdb
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\Desktop.exe
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\Desktop.pdb
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\EntityFramework.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\EntityFramework.xml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\LoginWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\RegisterWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\MainEmptyWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\CreateWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\MainWindow.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\App.g.cs
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\App.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\LoginWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\RegisterWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\MainEmptyWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\CreateWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Window\MainWindow.baml
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.exe
+C:\Users\qwe\Desktop\Work\Ycheba\4k\prikl\lab_den_star\Lab4 (1)\Desktop\obj\Debug\Desktop.pdb
