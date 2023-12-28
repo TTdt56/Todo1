@@ -62,3 +62,14 @@ D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\o
 D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\View\MainEmptyPage.baml
 D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\View\MainPage.baml
 D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\obj\Debug\View\RegisterPage.baml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Wpf.UI.Controls.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.pdb
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.xml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Wpf.UI.Controls.pdb
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Wpf.UI.Controls.xml
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Wpf.UI.XamlHost.pdb
+D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\bin\Debug\Microsoft.Toolkit.Wpf.UI.XamlHost.xml

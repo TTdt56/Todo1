@@ -9,43 +9,132 @@
       ShowsNavigationUI="False">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition />
+            <ColumnDefinition />
         </Grid.ColumnDefinitions>
-        
-        <WrapPanel Orientation="Vertical"  Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
-            
-            <Label Content="Добро пожаловать!"   FontSize="32"  Margin="0,0,0,60"></Label>
-            
-            <Label Content="Логин"   FontSize="20"  Margin="0,0,0,10"></Label>
-            <TextBox x:Name="Login" Height="40" Margin="4,0,0,10" Padding="0,10,0,0" FontSize="16" BorderThickness="0,0,0,1"></TextBox>
-            
-            <Label Content="Пароль"   FontSize="20"  Margin="0,0,0,10"></Label>
-            <CheckBox ToolTip="Показать/скрыть пароль" Canvas.ZIndex="3" x:Name="check" Margin="300 -0 0 -40" HorizontalAlignment="Left" Width="15" Height="15" Background="#000" FontSize="18" Foreground="White" Click="vid"/>
-            <PasswordBox x:Name="PasswordBox" Canvas.ZIndex="1" BorderThickness="0,0,0,1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="320" Margin="4,0,0,0" Padding="0,10,0,0" FontSize="16"></PasswordBox>
-            <TextBox x:Name="passv" Canvas.ZIndex="2" Height="40" Margin="4,-40,0,10" Padding="0,10,0,0" FontSize="16" BorderThickness="0,0,0,1" Visibility="Hidden"></TextBox>
-            
-            <Label x:Name="Vosstanovlenie" Content="Восстановить пароль"  HorizontalAlignment="Right"  FontSize="18"  Margin="0,0,0,10" ></Label>
-            
-            <Button Content="Войти" Width="327" Height="48" Margin="0,0,0,10" Background="#F96060" FontSize="18" Foreground="White" Click="Voiti" IsDefault="True">
+
+        <WrapPanel Orientation="Vertical" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <Label Content="Добро пожаловать!" FontSize="32" Margin="0,0,0,60" />
+
+            <Label Content="Логин" FontSize="20" Margin="0,0,0,10" />
+            <TextBox x:Name="Login" Height="40" Margin="4,0,0,10" Padding="0,10,0,0" FontSize="16"
+                     BorderThickness="0,0,0,1" />
+
+            <Label Content="Пароль" FontSize="20" Margin="0,0,0,10" />
+            <CheckBox ToolTip="Показать/скрыть пароль" Canvas.ZIndex="3" x:Name="check" Margin="300 -0 0 -40"
+                      HorizontalAlignment="Left" Width="15" Height="15" Background="#000" FontSize="18"
+                      Foreground="White" Click="vid" />
+            <PasswordBox x:Name="PasswordBox" Canvas.ZIndex="1" BorderThickness="0,0,0,1" HorizontalAlignment="Left"
+                         VerticalAlignment="Top" Height="40" Width="320" Margin="4,0,0,0" Padding="0,10,0,0"
+                         FontSize="16" />
+            <TextBox x:Name="passv" Canvas.ZIndex="2" Height="40" Margin="4,-40,0,10" Padding="0,10,0,0" FontSize="16"
+                     BorderThickness="0,0,0,1" Visibility="Hidden" />
+
+            <Label x:Name="Vosstanovlenie" Content="Восстановить пароль" HorizontalAlignment="Right" FontSize="18"
+                   Margin="0,0,0,10" />
+
+            <Button Content="Войти" Width="327" Height="48" Margin="0,0,0,10" Background="#F96060" FontSize="18"
+                    Foreground="White" Click="Voiti" IsDefault="True">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Height"
+                                                             To="100" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Height"
+                                                             To="48" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
                 <Button.Resources>
                     <Style TargetType="Border">
-                        <Setter Property="CornerRadius" Value="20 20 5 5"/>
+                        <Setter Property="CornerRadius" Value="20 20 5 5" />
                     </Style>
                 </Button.Resources>
             </Button>
-            
-            <Button Content="Регистрация"  Width="327" Height="48" BorderBrush="#F96060" Margin="5" Background="#F96060" FontSize="18" Foreground="White" Click="Registracia">
+
+            <Button Content="Регистрация" Width="327" Height="48" BorderBrush="#F96060" Margin="5" Background="#F96060"
+                    FontSize="18" Foreground="White" Click="Registracia">
                 <Button.Resources>
                     <Style TargetType="Border">
-                        <Setter Property="CornerRadius" Value="5 5 20 20"/>
+                        <Setter Property="CornerRadius" Value="5 5 20 20" />
                     </Style>
                 </Button.Resources>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Height"
+                                                             To="100" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Height"
+                                                             To="48" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
             </Button>
-            
+
         </WrapPanel>
-        <WrapPanel Orientation="Vertical"  Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,60,0,0">
-            <Image Height="149" Source="/Images/logo.png" Stretch="Fill" Width="149"/>
-        </WrapPanel>
+        <Image
+            Grid.Column="0"
+            Height="150"
+            Width="150"
+            Margin="0,60,0,0"
+            Source="/Images/logo.png"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top">
+            <Image.RenderTransform>
+                <RotateTransform x:Name="rotateTransform" Angle="0" CenterX="75" CenterY="75" />
+            </Image.RenderTransform>
+            <Image.Triggers>
+                <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                                Storyboard.TargetName="rotateTransform"
+                                Storyboard.TargetProperty="Angle"
+                                From="0"
+                                To="360"
+                                Duration="0:0:2"
+                                RepeatBehavior="Forever">
+                                <DoubleAnimation.EasingFunction>
+                                    <QuadraticEase EasingMode="EaseInOut" />
+                                </DoubleAnimation.EasingFunction>
+                            </DoubleAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Image.Triggers>
+        </Image>
     </Grid>
 </Page>
