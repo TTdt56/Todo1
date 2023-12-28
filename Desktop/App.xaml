@@ -4,19 +4,10 @@
              xmlns:local="clr-namespace:Desktop"
              StartupUri="Window/LoginWindow.xaml">
     <Application.Resources>
-        <Style x:Key="CustomFontTextBlock" TargetType="TextBlock">
-            <Setter Property="TextElement.FontFamily" Value="fonts/#Actor"/>
-        </Style>
-        
-        <Style x:Key="CustomFontContentButton" TargetType="Button">
-            <Setter Property="FontFamily" Value="fonts/#Actor"/>
-        </Style>
-        
-        <Style x:Key="CustomFontTextBox" TargetType="TextBox">
-            <Setter Property="FontFamily" Value="fonts/#Actor"/>
-        </Style>
-        
-        <SolidColorBrush x:Key="CustomGray" Color="#C6C6C6"></SolidColorBrush>
-        <SolidColorBrush x:Key="CustomPink" Color="#F96060"></SolidColorBrush>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="DesktopResourceDictionary.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
