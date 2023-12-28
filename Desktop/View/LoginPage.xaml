@@ -1,11 +1,12 @@
-﻿<Window x:Class="Desktop.Window.LoginWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Desktop"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800">
+﻿<Page x:Class="Desktop.View.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Desktop.View"
+      mc:Ignorable="d"
+      Title="LoginPage" Height="600" Width="800"
+      ShowsNavigationUI="False">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
@@ -46,6 +47,5 @@
         <WrapPanel Orientation="Vertical"  Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,60,0,0">
             <Image Height="149" Source="/Images/logo.png" Stretch="Fill" Width="149"/>
         </WrapPanel>
-        
     </Grid>
-</Window>
+</Page>

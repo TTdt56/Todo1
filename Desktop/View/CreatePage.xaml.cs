@@ -1,29 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 using Desktop.Model;
 using Desktop.Repository;
 using Desktop.Window;
 
-namespace Desktop
+namespace Desktop.View
 {
-    /// <summary>
-    /// Логика взаимодействия для Window4.xaml
-    /// </summary>
-    public partial class CreateWindow
+    public partial class CreatePage : Page
     {
         private string _name;
-        public CreateWindow(string name = "")
+        public CreatePage(string name = "")
         {
             InitializeComponent();
             _name = name;
@@ -48,11 +35,9 @@ namespace Desktop
                                     Date = DatePicker.Text, Time = Time.Text, IsChecked = false,
                                     BackgroundColor = Brushes.White, ColorBorder = Brushes.Blue
                                 };
-                                
+
                                 TasksRepository.AddTask(task);
-                                var mainWindow = new MainWindow(_name);
-                                mainWindow.Show();
-                                Close();
+                                NavigationService?.Navigate(new MainPage(_name));
                             }
                             else
                             {
@@ -79,12 +64,10 @@ namespace Desktop
                 MessageBox.Show("Поле названия задачи пустое");
             }
         }
-
+        
         private void CancelButton_OnClick(object sender, RoutedEventArgs e)
         {
-            var window = new MainWindow();
-            window.Show();
-            Hide();
+            NavigationService?.Navigate(new MainPage(_name));
         }
     }
 }
