@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\Пользователи\Руслан\Рабочий стол\Denis\Desktop\App.xaml
-62025719738
+71490637417
 
-15-659878947
+16-245069218
 181756820765
-DesktopResourceDictionary.xaml;Window\LoginWindow.xaml;Window\RegisterWindow.xaml;Window\MainEmptyWindow.xaml;Window\CreateWindow.xaml;Window\MainWindow.xaml;
+DesktopResourceDictionary.xaml;View\CreatePage.xaml;View\LoginPage.xaml;View\MainEmptyPage.xaml;View\MainPage.xaml;View\RegisterPage.xaml;Window\MainWindow.xaml;
 
 False
 
