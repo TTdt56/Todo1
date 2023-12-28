@@ -16,8 +16,8 @@
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
         <WrapPanel Height="400" Orientation="Vertical" Grid.RowSpan="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"  >
-            <DatePicker  Height="151"  Margin="0,45,0,20" />
-            <ComboBox x:Name="time" FontSize="20" Height="66" Margin="0,10,0,50" >
+            <DatePicker Name="DatePicker" Height="151"  Margin="0,45,0,20" />
+            <ComboBox Name="Time" FontSize="20" Height="66" Margin="0,10,0,50" >
                 <ComboBoxItem>0:00</ComboBoxItem>
                 <ComboBoxItem>1:00</ComboBoxItem>
                 <ComboBoxItem>2:00</ComboBoxItem>
@@ -35,18 +35,18 @@
                 <ComboBoxItem>14:00</ComboBoxItem>
             </ComboBox>
 
-            <Button Content="Отмена" Width="300" Height="54" Margin="0,0,0,0" Background="#FFF14545" FontSize="20" Foreground="White"/>
+            <Button Name="CancelButton" Content="Отмена" Width="300" Height="54" Margin="0,0,0,0" Background="#FFF14545" FontSize="20" Foreground="White" Click="CancelButton_OnClick"/>
 
         </WrapPanel>
         <WrapPanel Orientation="Vertical" Grid.RowSpan="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
 
             <Label Content="Название"   FontSize="20"  Margin="0,0,0,10"></Label>
-            <TextBox Height="40" Margin="0,0,0,10" Padding="0,10,0,0"></TextBox>
+            <TextBox Name="Name" Height="40" Margin="0,0,0,10" Padding="0,10,0,0"></TextBox>
             <Label Content="Категория"   FontSize="20"  Margin="0,0,0,10"></Label>
-            <TextBox  Height="40" Margin="0,0,0,10" Padding="0,10,0,0" ></TextBox>
+            <TextBox Name="Category" Height="40" Margin="0,0,0,10" Padding="0,10,0,0" ></TextBox>
             <Label Content="Описание"   FontSize="20"  Margin="0,0,0,10"></Label>
-            <TextBox  Height="60" Margin="0,0,0,40" Padding="0,10,0,0" ></TextBox>
-            <Button Content="Создать" Width="300" Height="60" Margin="0,0,0,10" Background="Green" FontSize="20" Foreground="White" Click="ButtonBase_OnClick"/>
+            <TextBox Name="Description" Height="60" Margin="0,0,0,40" Padding="0,10,0,0" ></TextBox>
+            <Button Name="CreateTaskButton" Content="Создать" Width="300" Height="60" Margin="0,0,0,10" Background="Green" FontSize="20" Foreground="White" Click="CreateTaskButton_OnClick"/>
 
         </WrapPanel>
     </Grid>

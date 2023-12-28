@@ -68,6 +68,7 @@
     <Compile Include="Model\TaskModel.cs" />
     <Compile Include="Model\UserModel.cs" />
     <Compile Include="Properties\Annotations.cs" />
+    <Compile Include="Repository\TaskRepository.cs" />
     <Compile Include="Repository\UserRepository.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>

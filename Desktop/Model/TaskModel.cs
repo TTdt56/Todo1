@@ -8,6 +8,11 @@ namespace Desktop.Model
     public class TaskModel : INotifyPropertyChanged
     {
         public int Id { get; set; }
+        public string Category { get; set; }
+        public string Content { get; set; }
+        public string Date { get; set; }
+        public string Title { get; set; }
+        public string Time { get; set; }
 
         private bool isCheked; 
         public bool IsChecked {            
@@ -16,9 +21,8 @@ namespace Desktop.Model
             {
                 isCheked = value;
                 OnPropertyChanged();    
-            } }
-        public string Title { get; set; }
-        public string Time { get; set; }
+            } 
+        }
 
         private Brush brush;
         public Brush BackgroundColor
